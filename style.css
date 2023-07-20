@@ -1,0 +1,54 @@
+
+img{
+  position: relative;
+  width: 150px;
+  height: 150px;  
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+.profile-image{
+ background-color: cyan;
+ border-radius: 50%;
+ width: 160px;
+ height: 160px;
+ position: relative;
+ margin-left: 40%;
+}
+
+
+
+.period{
+    font-style: italic;
+    margin: 0;
+    display: inline-block;
+    text-align: right;
+}
+
+h3 {
+    margin: 0;
+    display: inline-block;
+}
+
+.experience {
+    display: block;
+    float: left;
+}
+
+.period {
+    float: right;
+}
+
+.education-certification {
+    clear:both;
+}
+
+.other {
+    clear: both;
+}
+
+
+.profile-image, .profile-details{
+  
+}
